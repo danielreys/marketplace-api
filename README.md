@@ -30,6 +30,8 @@
 
 2. **API Testing**: 
    - All API endpoints have been thoroughly tested using Postman.
+     
+NOTE: Files will be saved locally in `storage\app\Files\media`
 
 ## Technologies & Tools Used
 
